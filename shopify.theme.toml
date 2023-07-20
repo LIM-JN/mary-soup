@@ -1,0 +1,13 @@
+[environments.env1]
+theme = "154824769830"
+store = "mary-soup"
+password  = "shptka_459563605532e4edb36bac32cc9a2f03"
+ignore = "sections/header.liquid"
+
+[environments.env2]
+store = "another-store"
+path = "./dist"
+ignore = ["sections/announcement-bar.liquid", "sections/header.liquid"]
+output = "json"
+live = true
+allow-live = true
