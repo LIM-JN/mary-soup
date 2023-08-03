@@ -1,0 +1,97 @@
+{
+  "sections": {
+    "f1af7491-23e1-4553-b2b2-12b100660798": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/0136c3449b5e46e5995644349314aa21.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19984083648806__fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "HICATHi-ENERGY",
+            "heading_size": "h1"
+          }
+        },
+        "template--19984083648806__fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>HICAT Hi-ENERGY<\/h3><p>ハイキャット　エナジードリンク<\/p><p>100ml<\/p><p>国産またたびを配合したハイエナジーショット。<br\/>突き抜けたいあなたへ。<br\/>ハーブ香るフレーバー。<br\/>微炭酸で、なめらかな口当たり。<br\/>※1日の用法・容量をお守りください。<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19984083648806__fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19984083648806__fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc-heading-1",
+        "template--19984083648806__fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc-text-1",
+        "template--19984083648806__fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HICAT_image_re.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "d1a365a7-65d7-4391-b5f5-a5d2010a041d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 3,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "f1af7491-23e1-4553-b2b2-12b100660798",
+    "fd6b5879-0fc9-4332-a8f9-693dd1a4ebcc",
+    "d1a365a7-65d7-4391-b5f5-a5d2010a041d"
+  ]
+}
